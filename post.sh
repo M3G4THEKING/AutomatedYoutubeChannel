@@ -1,0 +1,1 @@
+python "D:\Github Downloads\AutoTube\main.py"
